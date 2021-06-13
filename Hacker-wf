@@ -90,11 +90,11 @@ def function(email,passw,i):
 
  
 
-print('\n---------- Welcome To Facebook BruteForce  SHEIKH UMAR - HACKER----------\n')
+print('\n---------- Welcome To Facebook BruteForce  SHEIKH UMAR - HACKER - wf----------\n')
 
 
 
-                             
+                Contact : no
 
 file=open('passwords.txt','r')
 
